@@ -9,3 +9,20 @@
 7. Install Chromedriver chromedriver.exe and add it to the path
 8. Install Project interpreters such as selenium, robotframework and robotframework-selenium in Pycharm Settings
 9. Install Packages IntellibotSelenium plugins in Pycharm
+
+# Test Setup
+1. KinetiKeywords
+This folder contain some files that initiate all of page elements, also their action as objects.
+2. Testcases
+This folder contain some files that test cases executed.
+
+# To run all the 5 testcases at once
+From your Terminal, go to the project directory
+Run the test cases using the following command
+robot -d Results KinetiTestcases/Testcases.robot 
+
+# To run single testcase
+From your Terminal, go to the project directory
+Run the test cases using the following command
+robot -d Results KinetiTestcases/Testcases/Testcase 1.a.robot
+
