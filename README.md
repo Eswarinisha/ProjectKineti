@@ -11,9 +11,9 @@
 9. Install Packages IntellibotSelenium plugins in Pycharm
 
 # Test Setup
-1. KinetiKeywords
+1. Folder KinetiKeywords:
 This folder contain some files that initiate all of page elements, also their action as objects.
-2. Testcases
+2. Folder Testcases :
 This folder contain some files that test cases executed.
 
 # To run all the 5 testcases at once
