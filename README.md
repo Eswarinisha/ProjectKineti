@@ -18,11 +18,11 @@ This folder contain some files that test cases executed.
 
 # To run all the 5 testcases at once
 From your Terminal, go to the project directory
-Run the test cases using the following command
+Run the test cases using the following command : 
 robot -d Results KinetiTestcases/Testcases.robot 
 
 # To run single testcase
 From your Terminal, go to the project directory
-Run the test cases using the following command
+Run the test cases using the following command : 
 robot -d Results KinetiTestcases/Testcases/Testcase 1.a.robot
 
