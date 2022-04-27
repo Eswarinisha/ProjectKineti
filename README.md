@@ -19,13 +19,13 @@ This folder contain some files that test cases executed.
 # Running Testcases to view result:
 Create a Directory 'Results' to save results
 
-  # To run all the 5 testcases at once
-  From your Terminal, go to the project directory
-  Run the test cases using the following command : 
-  robot -d Results KinetiTestcases/Testcases.robot 
+1. To run all the 5 testcases at once
+From your Terminal, go to the project directory
+Run the test cases using the following command : 
+robot -d Results KinetiTestcases/Testcases.robot 
 
-  # To run single testcase
-  From your Terminal, go to the project directory
-  Run the test cases using the following command : 
-  robot -d Results KinetiTestcases/Testcases/Testcase 1.a.robot
+2. To run single testcase
+From your Terminal, go to the project directory
+Run the test cases using the following command : 
+robot -d Results KinetiTestcases/Testcases/Testcase 1.a.robot
 
